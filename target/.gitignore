@@ -1,0 +1,12 @@
+*.class
+*.properties
+*.MF
+*.xml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+/target/
+*.DS_Store
